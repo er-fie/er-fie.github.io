@@ -1,0 +1,35 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Clipper - 标签 - Erfieの博客</title>
+        <link>http://example.org/tags/clipper/</link>
+        <description>Clipper - 标签 - Erfieの博客</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>er_fie@126.com (Erfie)</managingEditor>
+            <webMaster>er_fie@126.com (Erfie)</webMaster><lastBuildDate>Sat, 08 Oct 2022 22:32:10 &#43;0800</lastBuildDate><atom:link href="http://example.org/tags/clipper/" rel="self" type="application/rss+xml" /><item>
+    <title>Clipper中文介绍和帮助文档</title>
+    <link>http://example.org/posts/clipper/</link>
+    <pubDate>Sat, 08 Oct 2022 22:32:10 &#43;0800</pubDate>
+    <author>Erfie</author>
+    <guid>http://example.org/posts/clipper/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/featured-image" referrerpolicy="no-referrer">
+            </div><p><strong>Clipper Library</strong>是用来裁剪(clipping)和偏移(offsetting )多边形的类库。
+Clipper的优点:</p>
+<ul>
+<li>它可以处理所有类型的<strong>多边形</strong>，包括自交多边形</li>
+<li>它支持多个多边形填充规则(EvenOdd, NonZero, Positive, Negative)</li>
+<li>相对于其它类库，它非常快</li>
+<li>它的数值很稳定<strong>鲁棒性强</strong></li>
+<li>它还可以处理线段和多边形偏移</li>
+<li>它可以在免费软件和商业应用程序中<strong>免费使用</strong></li>
+</ul>
+<div class="details admonition note open">
+        <div class="details-summary admonition-title">
+            <i class="icon fas fa-pencil-alt fa-fw" aria-hidden="true"></i>重点<i class="details-icon fas fa-angle-right fa-fw" aria-hidden="true"></i>
+        </div>
+        <div class="details-content">
+            <div class="admonition-content">完全免费和开源哦！</div>
+        </div>
+    </div>]]></description>
+</item>
+</channel>
+</rss>
