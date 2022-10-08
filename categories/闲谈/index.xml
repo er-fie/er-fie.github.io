@@ -1,0 +1,19 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>闲谈 - 分类 - Erfieの博客</title>
+        <link>http://example.org/categories/%E9%97%B2%E8%B0%88/</link>
+        <description>闲谈 - 分类 - Erfieの博客</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>er_fie@126.com (Erfie)</managingEditor>
+            <webMaster>er_fie@126.com (Erfie)</webMaster><lastBuildDate>Tue, 27 Sep 2022 21:50:59 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/%E9%97%B2%E8%B0%88/" rel="self" type="application/rss+xml" /><item>
+    <title>我的第一篇博客</title>
+    <link>http://example.org/posts/erfie-saysomething/</link>
+    <pubDate>Tue, 27 Sep 2022 21:50:59 &#43;0800</pubDate>
+    <author>Erfie</author>
+    <guid>http://example.org/posts/erfie-saysomething/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/featured-image" referrerpolicy="no-referrer">
+            </div><p>这是我的第一篇博客<i class="fas fa-campground fa-fw" aria-hidden="true"></i></p>
+<p><strong>在国庆节到来直接，我忠心的祝愿我的祖国繁荣昌盛，国内外同胞们生活幸福美满。但同时也不要忘记了曾经浴血奋战的先辈们，缅怀祖先，活在当下。</strong></p>]]></description>
+</item>
+</channel>
+</rss>
